@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alina!
 - 👀 I’m interested in software engeneering 
-- 🌱 I’m currently learning Python, Java and Flask
+- 🌱 I’m currently learning th basics of programing
 - 💞️ I’m looking forward to collaborate on beginer-level projects:) I am highly motivated and eager to learn
 - 📫 send me a message:)
 
